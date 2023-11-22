@@ -30,7 +30,7 @@ This is a list of projects I made. Some of them have been commissioned, and as a
 * Live website: Not live since I only made part of the website
 * Source code: Not public
 * Technologies: Docker, Nginx, PayloadCMS, NextJS, Redux, MongoDB, TailwindCSS
-* Images: Yes.
+* Images: [Link](https://github.com/github-luciano/CV/tree/main/youtestplus).
 > Note: The images are sourced from design files, not from the live website.
 
 I have been part of the YouTestPlus team for about 10 months. My main task was make a web app that would meet the needs of the company. The work I've done includes the following: 
@@ -73,7 +73,7 @@ Other features: Contact form that sends an email using the domain-associated ema
 * Source code: Not public
 * Technologies: Wordpress, Elementor
 * Project overview: Product gallery website for Lithodoracapri
-* Images: Yes.
+* Images: [Link](https://github.com/github-luciano/CV/tree/main/lithodoracapri).
 
 ## Primal Members
 * Live website: https://express-members-only-xp15.onrender.com/
