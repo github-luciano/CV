@@ -31,6 +31,7 @@ This is a list of projects I made. Some of them have been commissioned, and as a
 * Source code: Not public
 * Technologies: Docker, Nginx, PayloadCMS, NextJS, Redux, MongoDB, TailwindCSS
 * Images: Yes.
+> Note: The images are sourced from design files, not from the live website.
 
 I have been part of the YouTestPlus team for about 10 months. My main task was make a web app that would meet the needs of the company. The work I've done includes the following: 
 
