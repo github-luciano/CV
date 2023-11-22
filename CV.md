@@ -32,7 +32,7 @@ This is a list of projects I made. Some of them have been commissioned, and as a
 * Technologies: Docker, Nginx, PayloadCMS, NextJS, Redux, MongoDB, TailwindCSS
 * Images: Yes.
 
-I was part of the YouTestPlus team for about 10 months. My main task was make a web app that would meet the needs of the company. The work I've done includes the following: 
+I have been part of the YouTestPlus team for about 10 months. My main task was make a web app that would meet the needs of the company. The work I've done includes the following: 
 
 * Assess and define the technological requirements and services for the company's operations.
 * Select a technology stack that aligns with the organization's needs.
@@ -46,11 +46,11 @@ I developed the following features into the web app:
 * Settings page for users that would allow to edit personal details.
 * Simulations.
 * Simulations history.
-* Video lessons.
+* On-demand video lessons system.
 * Shop interface.
 * Dashboard.
 
-For all these features, the web app had admin panels that would allow to edit everything. The admin panels were generated with PayloadCMS. 
+For all the features mentioned above, the web app has admin panels that would allow to edit everything. The admin panels were generated with PayloadCMS. 
 
 
 ## Bar Mediterraneo Capri
