@@ -76,6 +76,8 @@ Other features: Contact form that sends an email using the domain-associated ema
 * Images: [Link](https://github.com/github-luciano/CV/tree/main/lithodoracapri).
 
 ## Primal Members
+Note: The live website will take a while to load since it's on a free tier hosting.
+
 * Live website: https://express-members-only-xp15.onrender.com/
 * Source code: https://github.com/github-luciano/express-members-only
 * Technologies: ExpressJS, PugJS, PassportJS, MongoDB, SCSS
@@ -86,6 +88,8 @@ This website was made as a project to learn authentication in ExpressJS using Pa
 As for access control, only admins are allowed to delete posts from the Talk-Board. The user is prompted with `Are you an admin?` during the signup process.
 
 ## Fragrance Library 
+Note: The live website will take a while to load since it's on a free tier hosting.
+
 * Live website: https://fragrance-library.onrender.com/
 * Source code: https://github.com/github-luciano/express-fragrance-library
 * Technologies: ExpressJS, EJS, MongoDB, Cloudinary, SCSS
